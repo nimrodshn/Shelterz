@@ -4,8 +4,9 @@ var path = require('path');
 
 app.get('/', function (req, res) {
    res.sendFile(path.join(
-    __dirname, '..', 'client', 'index.html'));
+    __dirname, 'client', 'index.html'));
 });
+
 
 var server = app.listen(8080, function () {
    var host = server.address().address
