@@ -1,0 +1,4579 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>מקלטים ברחבי תל אביב</name>
+		<description>מיקום המקלטים ברחבי תל אביב | Created with http://batchgeo.com</description>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>צירלסון 39 תל אביב</address>
+				<Point>
+					<coordinates>34.793084896875,32.096128753257,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>צירלסון 29 תל אביב</address>
+				<Point>
+					<coordinates>34.793239720125,32.095530979887,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>אלעזר החורני 1 תל אביב</address>
+				<Point>
+					<coordinates>34.78576856158,32.093545864095,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>אנטיגונוס 6 תל אביב</address>
+				<Point>
+					<coordinates>34.784877385006,32.092607913346,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>דיזנגוף 221 תל אביב</address>
+				<Point>
+					<coordinates>34.775665663845,32.089875545305,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>ועידת קטוביץ 47 תל אביב</address>
+				<Point>
+					<coordinates>34.792106067833,32.095976626731,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>דיזנגוף 316 תל אביב</address>
+				<Point>
+					<coordinates>34.776319771794,32.095251326121,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>מוזר יעקב 1 תל אביב</address>
+				<Point>
+					<coordinates>34.785562925885,32.088497693715,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>כהנשטם 16 תל אביב</address>
+				<Point>
+					<coordinates>34.788138066992,32.089773542114,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>בן יהודה 159 תל אביב</address>
+				<Point>
+					<coordinates>34.77352674776,32.08851282645,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>בן יהודה 227 תל אביב</address>
+				<Point>
+					<coordinates>34.775651767325,32.095358830692,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>דיזנגוף 255 תל אביב</address>
+				<Point>
+					<coordinates>34.776572602273,32.093557706974,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>הפרדס 7 תל אביב</address>
+				<Point>
+					<coordinates>34.780716536391,32.083952791774,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>שניאור זלמן 2 תל אביב</address>
+				<Point>
+					<coordinates>34.837823504827,32.14639416455,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>מנדלי מוכר ספרים 19 תל אביב</address>
+				<Point>
+					<coordinates>34.771458538444,32.079065202,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>מיכה 20 תל אביב</address>
+				<Point>
+					<coordinates>34.775850005012,32.094169806999,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>זולא אמיל 2 תל אביב</address>
+				<Point>
+					<coordinates>34.773201530096,32.082600707499,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>לסל 7 תל אביב</address>
+				<Point>
+					<coordinates>34.77212898942,32.085681889996,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>הכרם 2 תל אביב</address>
+				<Point>
+					<coordinates>34.769994193014,32.083313836166,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>טשרניחובסקי 35 תל אביב</address>
+				<Point>
+					<coordinates>34.772375595167,32.073578132513,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>שולמית 10 תל אביב</address>
+				<Point>
+					<coordinates>34.77557559539,32.078382144132,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>גן מאיר 1 תל אביב</address>
+				<Point>
+					<coordinates>34.772593011583,32.071974335165,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>גור אריה 4 תל אביב</address>
+				<Point>
+					<coordinates>34.778644502236,32.081624963926,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>מסריק 11 תל אביב</address>
+				<Point>
+					<coordinates>34.778424879191,32.07862751088,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>אד&quot;ם הכהן 26 תל אביב</address>
+				<Point>
+					<coordinates>34.777770294819,32.086093362524,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>הרברט סמואל 100 תל אביב</address>
+				<Point>
+					<coordinates>34.766590717498,32.077548494526,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>גורדון יהודה ליב 3 תל אביב</address>
+				<Point>
+					<coordinates>34.77782182445,32.066160335201,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>הוז דב 16 תל אביב</address>
+				<Point>
+					<coordinates>34.772357120626,32.080638312654,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>שי&quot;ר 2 תל אביב</address>
+				<Point>
+					<coordinates>34.774136777514,32.086238193066,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>בזל 34 תל אביב</address>
+				<Point>
+					<coordinates>34.779088357592,32.089951185757,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>השופטים 37 תל אביב</address>
+				<Point>
+					<coordinates>34.78278827717,32.076297903802,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>פטאי יוסף 7 תל אביב</address>
+				<Point>
+					<coordinates>34.799715319647,32.108379670582,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>רדינג 4 תל אביב</address>
+				<Point>
+					<coordinates>34.794543078669,32.103662433459,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>רדינג 8 תל אביב</address>
+				<Point>
+					<coordinates>34.794555684799,32.104123333532,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>בורלא יהודה 25 תל אביב</address>
+				<Point>
+					<coordinates>34.790574385664,32.108171551869,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>מוצקין 29 תל אביב</address>
+				<Point>
+					<coordinates>34.775229600339,32.09121125173,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>מוצקין 15 תל אביב</address>
+				<Point>
+					<coordinates>34.775064720226,32.090591275725,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>אלקלעי 2 תל אביב</address>
+				<Point>
+					<coordinates>34.779892978922,32.090864838078,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>מנדלשטם 9 תל אביב</address>
+				<Point>
+					<coordinates>34.776662008032,32.090926522521,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>הכנסת הגדולה 3 תל אביב</address>
+				<Point>
+					<coordinates>34.798481761147,32.097520508279,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>תוספתא 9 תל אביב</address>
+				<Point>
+					<coordinates>34.799021059141,32.09686102216,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>יחזקאל 14 תל אביב</address>
+				<Point>
+					<coordinates>34.777715481154,32.093205146544,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>היוצ&quot;ר 5 תל אביב</address>
+				<Point>
+					<coordinates>34.77899049867,32.089274411783,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>הירקון 248 תל אביב</address>
+				<Point>
+					<coordinates>34.773069624414,32.091854542613,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>גריזים 5 תל אביב</address>
+				<Point>
+					<coordinates>34.776409291441,32.089851802149,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>ארטר יצחק 6 תל אביב</address>
+				<Point>
+					<coordinates>34.797675862045,32.069555505907,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>אשרמן יוסף 25 תל אביב</address>
+				<Point>
+					<coordinates>34.777823332705,32.066162069905,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>החבצלת 6 תל אביב</address>
+				<Point>
+					<coordinates>34.80914903221,32.056403341488,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>מרמורק 22 תל אביב</address>
+				<Point>
+					<coordinates>34.781078226848,32.071311515866,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>ביל&quot;ו 17 תל אביב</address>
+				<Point>
+					<coordinates>34.780016373058,32.069517755793,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>אוליפנט 11 תל אביב</address>
+				<Point>
+					<coordinates>34.780675309278,32.065723736483,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>בלפור 14 תל אביב</address>
+				<Point>
+					<coordinates>34.774139328401,32.067625227493,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>מטולה 4 תל אביב</address>
+				<Point>
+					<coordinates>34.765483955257,32.063810469882,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>רוקח שמעון 19 תל אביב</address>
+				<Point>
+					<coordinates>34.766453370356,32.060789653976,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>יפה בצלאל 8 תל אביב</address>
+				<Point>
+					<coordinates>34.775265082671,32.06510495597,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>סעדיה גאון 6 תל אביב</address>
+				<Point>
+					<coordinates>34.781760921912,32.065463239189,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>אלחנן יצחק 2 תל אביב</address>
+				<Point>
+					<coordinates>34.765600031626,32.065563210632,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>התלמי יהושע 16 תל אביב</address>
+				<Point>
+					<coordinates>34.7687922939,32.062404297417,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>קלישר 5 תל אביב</address>
+				<Point>
+					<coordinates>34.76765348716,32.066802593045,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>קלישר 7 תל אביב</address>
+				<Point>
+					<coordinates>34.767945204272,32.066604663291,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>פינס 20 תל אביב</address>
+				<Point>
+					<coordinates>34.766613197276,32.062501252256,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>פרנקל ידידיה 44 תל אביב</address>
+				<Point>
+					<coordinates>34.771225410997,32.057192932173,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>חצרים 1 תל אביב</address>
+				<Point>
+					<coordinates>34.765908611585,32.056263570917,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>הגר&quot;א 28 תל אביב</address>
+				<Point>
+					<coordinates>34.781967246881,32.059640517515,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>ויטל חיים 2 תל אביב</address>
+				<Point>
+					<coordinates>34.777819903433,32.066158092882,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>העליה 17 תל אביב</address>
+				<Point>
+					<coordinates>34.773583734627,32.059171146702,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>יפו 44 תל אביב</address>
+				<Point>
+					<coordinates>34.771903149822,32.060661466063,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>לוינסקי 95 תל אביב</address>
+				<Point>
+					<coordinates>34.778619274031,32.057290151331,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>ברזילי 8 תל אביב</address>
+				<Point>
+					<coordinates>34.775275958252,32.061910487726,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>פטרסון 3 תל אביב</address>
+				<Point>
+					<coordinates>34.791035801611,32.057342160365,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>אלון יגאל 46 תל אביב</address>
+				<Point>
+					<coordinates>34.79197910304,32.058786726429,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>הגייסות 1 תל אביב</address>
+				<Point>
+					<coordinates>34.79550770191,32.061726468947,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>הסיירים 2 תל אביב</address>
+				<Point>
+					<coordinates>34.79822800257,32.061675165562,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>הפלמ&quot;ח 30 תל אביב</address>
+				<Point>
+					<coordinates>34.795825334887,32.063110120879,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>החי&quot;ל 30 תל אביב</address>
+				<Point>
+					<coordinates>34.798228740226,32.056340678071,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>החי&quot;ל 18 תל אביב</address>
+				<Point>
+					<coordinates>34.794770894421,32.056436677367,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>מונאש 28 תל אביב</address>
+				<Point>
+					<coordinates>34.777821745638,32.066162210124,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>ורד 7 תל אביב</address>
+				<Point>
+					<coordinates>34.793491498349,32.052793504263,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>גבעתי 2 תל אביב</address>
+				<Point>
+					<coordinates>34.796142837553,32.051625055013,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>לח&quot;י 66 תל אביב</address>
+				<Point>
+					<coordinates>34.795684785887,32.047457250382,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>לח&quot;י 66 תל אביב</address>
+				<Point>
+					<coordinates>34.795686444155,32.047455135172,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>מאייר מרדכי 2 תל אביב</address>
+				<Point>
+					<coordinates>34.814441751304,32.122326223081,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>עשהאל 3 תל אביב</address>
+				<Point>
+					<coordinates>34.83798329326,32.123243773353,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>אצ&quot;ל 76 תל אביב</address>
+				<Point>
+					<coordinates>34.793461107934,32.048025757068,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>אצ&quot;ל 34 תל אביב</address>
+				<Point>
+					<coordinates>34.791550613317,32.051739042052,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>אצ&quot;ל 24 תל אביב</address>
+				<Point>
+					<coordinates>34.791478368037,32.052373616315,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>אצ&quot;ל 6 תל אביב</address>
+				<Point>
+					<coordinates>34.791216161695,32.053457941835,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>התקוה 70 תל אביב</address>
+				<Point>
+					<coordinates>34.789788386544,32.050346070686,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>יד לבנים 18 תל אביב</address>
+				<Point>
+					<coordinates>34.796949463701,32.060748823827,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>בועז 29 תל אביב</address>
+				<Point>
+					<coordinates>34.794888893632,32.049508182756,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>תמוז 8 תל אביב</address>
+				<Point>
+					<coordinates>34.790706633845,32.044391204369,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>לח&quot;י 46 תל אביב</address>
+				<Point>
+					<coordinates>34.793361648902,32.047512425162,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>אנילביץ מרדכי 16 תל אביב</address>
+				<Point>
+					<coordinates>34.787192476615,32.057595107661,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>אנילביץ מרדכי 16 תל אביב</address>
+				<Point>
+					<coordinates>34.78719114941,32.057595501957,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>מושיע 21 תל אביב</address>
+				<Point>
+					<coordinates>34.794793713904,32.050904457284,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>יפת 74 תל אביב</address>
+				<Point>
+					<coordinates>34.752533957125,32.047009870444,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>ציהתל&quot;י 40 תל אביב</address>
+				<Point>
+					<coordinates>34.755971464285,32.041517662538,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>עזה 8 תל אביב</address>
+				<Point>
+					<coordinates>34.759757421376,32.0492752523,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>אפלטון 7 תל אביב</address>
+				<Point>
+					<coordinates>34.747659266927,32.033969344598,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>קבוץ גלויות 21 תל אביב</address>
+				<Point>
+					<coordinates>34.765904365521,32.052669339341,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>מנדס פרנס 8 תל אביב</address>
+				<Point>
+					<coordinates>34.777820150744,32.066159528176,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>עולי ציון 22 תל אביב</address>
+				<Point>
+					<coordinates>34.757386446035,32.052444729939,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>קדם 104 תל אביב</address>
+				<Point>
+					<coordinates>34.746771919853,32.039927209996,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>מאור עינים 5 תל אביב</address>
+				<Point>
+					<coordinates>34.752181155661,32.041607362264,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>אשדוד 13 תל אביב</address>
+				<Point>
+					<coordinates>34.760506309179,32.040863222714,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>גולדמן נחום 3 תל אביב</address>
+				<Point>
+					<coordinates>34.75852955726,32.05809601169,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>הלוטוס 13 תל אביב</address>
+				<Point>
+					<coordinates>34.751849217961,32.043027833455,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>צהלון הרופא 3 תל אביב</address>
+				<Point>
+					<coordinates>34.756204076882,32.044091142293,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>פסטלוצי 27 תל אביב</address>
+				<Point>
+					<coordinates>34.756892598044,32.047024068572,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>יפת 44 תל אביב</address>
+				<Point>
+					<coordinates>34.752799166845,32.049861592864,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>פיקוס 19 תל אביב</address>
+				<Point>
+					<coordinates>34.7516890066,32.035854080824,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>קהילת קנדה 3 תל אביב</address>
+				<Point>
+					<coordinates>34.752765228644,32.03365319245,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>ישראל מריז&apos;ין 9 תל אביב</address>
+				<Point>
+					<coordinates>34.753884680253,32.03880930078,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>מזל דגים 8 תל אביב</address>
+				<Point>
+					<coordinates>34.751847900436,32.053397142619,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>חידושי הרי&quot;ם 10 תל אביב</address>
+				<Point>
+					<coordinates>34.755658825531,32.043118892327,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>קדם 40 תל אביב</address>
+				<Point>
+					<coordinates>34.749055530088,32.046673925858,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>פחד יצחק 8 תל אביב</address>
+				<Point>
+					<coordinates>34.747397527084,32.035922790755,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>בן צבי 3 תל אביב</address>
+				<Point>
+					<coordinates>34.759620991897,32.050417247031,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>אוהב ישראל 12 תל אביב</address>
+				<Point>
+					<coordinates>34.75239989277,32.039490495384,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>שז&quot;ר זלמן 39 תל אביב</address>
+				<Point>
+					<coordinates>34.831564478357,32.053746920329,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>נחל שורק 5 תל אביב</address>
+				<Point>
+					<coordinates>34.760568783151,32.039386264492,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>אלון יגאל 31 תל אביב</address>
+				<Point>
+					<coordinates>34.791843234185,32.056384105088,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>טשרנא 7 תל אביב</address>
+				<Point>
+					<coordinates>34.8025224369,32.058598845508,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>לח&quot;י 46 תל אביב</address>
+				<Point>
+					<coordinates>34.793363831653,32.047514553512,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>גבעתי 4 תל אביב</address>
+				<Point>
+					<coordinates>34.796161322178,32.051846518062,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>לובטקין צביה 35 תל אביב</address>
+				<Point>
+					<coordinates>34.807321664411,32.048622911797,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>דימונה 30 תל אביב</address>
+				<Point>
+					<coordinates>34.799215317863,32.05749737487,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>יד לבנים 19 תל אביב</address>
+				<Point>
+					<coordinates>34.795084671909,32.060957942332,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>יד לבנים 7 תל אביב</address>
+				<Point>
+					<coordinates>34.793030633534,32.061031861953,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>החי&quot;ל 29 תל אביב</address>
+				<Point>
+					<coordinates>34.797510291535,32.056543212676,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>אלון יגאל 30 תל אביב</address>
+				<Point>
+					<coordinates>34.79180151259,32.055827595143,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>מורה נבוכים 33 תל אביב</address>
+				<Point>
+					<coordinates>34.780482263637,32.052389738464,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>המערכה 3 תל אביב</address>
+				<Point>
+					<coordinates>34.793176305598,32.061652156083,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>ההגנה 110 תל אביב</address>
+				<Point>
+					<coordinates>34.797873818736,32.053460774595,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>כצנלסון בת-שבע 22 תל אביב</address>
+				<Point>
+					<coordinates>34.793917196496,32.04898992419,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>רשף 18 תל אביב</address>
+				<Point>
+					<coordinates>34.794043810803,32.053315584267,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>דיין משה 116 תל אביב</address>
+				<Point>
+					<coordinates>34.798910092882,32.065764204315,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>יד לבנים 22 תל אביב</address>
+				<Point>
+					<coordinates>34.797831108081,32.060760081459,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>יד לבנים 26 תל אביב</address>
+				<Point>
+					<coordinates>34.798544831409,32.060794646641,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>קלמר משה 6 תל אביב</address>
+				<Point>
+					<coordinates>34.777819420456,32.066158277688,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>קלמר משה 10 תל אביב</address>
+				<Point>
+					<coordinates>34.777819488265,32.066161068825,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>יד לבנים 29 תל אביב</address>
+				<Point>
+					<coordinates>34.796947251145,32.060935836767,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>אלנקווה 13 תל אביב</address>
+				<Point>
+					<coordinates>34.801279028,32.047987344485,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>שלמה 156 תל אביב</address>
+				<Point>
+					<coordinates>34.77979955511,32.053920265655,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>בעל העקידה 31 תל אביב</address>
+				<Point>
+					<coordinates>34.778629627063,32.052584167084,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>רינגלבלום 1 תל אביב</address>
+				<Point>
+					<coordinates>34.779405527628,32.040156412912,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>ישראל מסלנט 27 תל אביב</address>
+				<Point>
+					<coordinates>34.781403079528,32.050340434063,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>גורי ישראל 34 תל אביב</address>
+				<Point>
+					<coordinates>34.780326900348,32.042714505412,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>הקשת 29 תל אביב</address>
+				<Point>
+					<coordinates>34.775142036678,32.044464189512,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>בורמה 11 תל אביב</address>
+				<Point>
+					<coordinates>34.773069048516,32.043350304461,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>קהילת קראקוב 4 תל אביב</address>
+				<Point>
+					<coordinates>34.82128017653,32.110422275533,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>קהילת ביאלסטוק 3 תל אביב</address>
+				<Point>
+					<coordinates>34.820267455697,32.109747532903,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>זכות משה 10 תל אביב</address>
+				<Point>
+					<coordinates>34.817867334525,32.108409457492,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>ק&quot;ם 65 תל אביב</address>
+				<Point>
+					<coordinates>34.837466530574,32.11565057595,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>ק&quot;ם 43 תל אביב</address>
+				<Point>
+					<coordinates>34.835611956907,32.117922360195,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>יהונתן 42 תל אביב</address>
+				<Point>
+					<coordinates>34.838673346106,32.124019166989,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>אהוד 16 תל אביב</address>
+				<Point>
+					<coordinates>34.833488515477,32.123296842223,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>פילדלפיה 6 תל אביב</address>
+				<Point>
+					<coordinates>34.840514333549,32.121253599213,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>הטית זין 8 תל אביב</address>
+				<Point>
+					<coordinates>34.777821803013,32.066158317395,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>מגדל שרשן 17 תל אביב</address>
+				<Point>
+					<coordinates>34.81381014954,32.117732699314,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>תבואות הארץ 7 תל אביב</address>
+				<Point>
+					<coordinates>34.828021483785,32.111757701239,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>עולי הגרדום 15 תל אביב</address>
+				<Point>
+					<coordinates>34.834962452064,32.111097777697,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>עיר שמש 32 תל אביב</address>
+				<Point>
+					<coordinates>34.826742486252,32.124578002407,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>צה&quot;ל 71 תל אביב</address>
+				<Point>
+					<coordinates>34.834669950303,32.121509746061,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>יוסף האפרתי 2 תל אביב</address>
+				<Point>
+					<coordinates>34.8182697848,32.107404248488,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>קהילת ורשה 79 תל אביב</address>
+				<Point>
+					<coordinates>34.821804279931,32.109361487183,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>קהילת לודג&apos; 10 תל אביב</address>
+				<Point>
+					<coordinates>34.844285707025,32.150172792868,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>קהילת לודג&apos; 28 תל אביב</address>
+				<Point>
+					<coordinates>34.844356896049,32.150358813302,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>קהילת ורשה 12 תל אביב</address>
+				<Point>
+					<coordinates>34.818535527572,32.111309012769,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>הגולן 110 תל אביב</address>
+				<Point>
+					<coordinates>34.838131628463,32.112476251651,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>הגולן 19 תל אביב</address>
+				<Point>
+					<coordinates>34.831306038832,32.107779180674,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>לויטה 7 תל אביב</address>
+				<Point>
+					<coordinates>34.832950042973,32.112501300195,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>מיזאן 19 תל אביב</address>
+				<Point>
+					<coordinates>34.816408546923,32.120083070102,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>עולי הגרדום 7 תל אביב</address>
+				<Point>
+					<coordinates>34.834656176678,32.110383045807,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>הגולן 130 תל אביב</address>
+				<Point>
+					<coordinates>34.838565618429,32.114299175659,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>הארד 13 תל אביב</address>
+				<Point>
+					<coordinates>34.839749635764,32.112017227772,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>בנימין מטודלה 8 תל אביב</address>
+				<Point>
+					<coordinates>34.827519583823,32.109137348413,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>הגולן 124 תל אביב</address>
+				<Point>
+					<coordinates>34.838680644203,32.113730503851,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>קדש ברנע 4 תל אביב</address>
+				<Point>
+					<coordinates>34.81492291203,32.113527258349,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>קהילת ורשה 28 תל אביב</address>
+				<Point>
+					<coordinates>34.82004369025,32.112404845739,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>הדר יוסף 24 תל אביב</address>
+				<Point>
+					<coordinates>34.819297000359,32.109031750583,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>מרק יעקב 3 תל אביב</address>
+				<Point>
+					<coordinates>34.802538140691,32.054162223711,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>עולי הגרדום 30 תל אביב</address>
+				<Point>
+					<coordinates>34.835451157364,32.112071234458,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>ק&quot;ם 79 תל אביב</address>
+				<Point>
+					<coordinates>34.837291786972,32.114253236467,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>מרכוס דוד 18 תל אביב</address>
+				<Point>
+					<coordinates>34.835928098781,32.113754596568,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>גרונימן 9 תל אביב</address>
+				<Point>
+					<coordinates>34.798602142961,32.105839405548,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>כפר יונה 12 תל אביב</address>
+				<Point>
+					<coordinates>34.800180997662,32.109295462028,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>ברודי חיים 10 תל אביב</address>
+				<Point>
+					<coordinates>34.800892517011,32.110593788729,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>אנדרסן 36 תל אביב</address>
+				<Point>
+					<coordinates>34.797085680738,32.114382031385,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>לויטן יצחק 7 תל אביב</address>
+				<Point>
+					<coordinates>34.777820554198,32.066162475847,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>לבנון חיים 26 תל אביב</address>
+				<Point>
+					<coordinates>34.800235667224,32.105818067683,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>קרני יהודה 7 תל אביב</address>
+				<Point>
+					<coordinates>34.793674913487,32.105362806776,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>העבודה 5 תל אביב</address>
+				<Point>
+					<coordinates>34.772863803073,32.070646685499,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>אנטוקולסקי 4 תל אביב</address>
+				<Point>
+					<coordinates>34.782693303091,32.084310793549,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>דפנה 32 תל אביב</address>
+				<Point>
+					<coordinates>34.79325860831,32.080803286459,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>סולד הנרייטה 6 תל אביב</address>
+				<Point>
+					<coordinates>34.791468545092,32.079814493294,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>שפירא צבי הרמן 21 תל אביב</address>
+				<Point>
+					<coordinates>34.777885697918,32.075409901931,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>שיפר 8 תל אביב</address>
+				<Point>
+					<coordinates>34.777364703129,32.049621734335,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>בלבן מאיר 5 תל אביב</address>
+				<Point>
+					<coordinates>34.77781926907,32.066158932248,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>עמיקם 7 תל אביב</address>
+				<Point>
+					<coordinates>34.776375138848,32.045882175979,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>ניל&quot;י 7 תל אביב</address>
+				<Point>
+					<coordinates>34.775824932364,32.04723323057,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>זייד אלכסנדר 29 תל אביב</address>
+				<Point>
+					<coordinates>34.780464068324,32.046413910378,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>ישראל מסלנט 26 תל אביב</address>
+				<Point>
+					<coordinates>34.781435203351,32.050469893797,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>ישראל מסלנט 28 תל אביב</address>
+				<Point>
+					<coordinates>34.78148054034,32.050637757212,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>דיק 10 תל אביב</address>
+				<Point>
+					<coordinates>34.77859935881,32.042015352654,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>אופטושו יוסף 2 תל אביב</address>
+				<Point>
+					<coordinates>34.77781928461,32.066159897299,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>הכינור 3 תל אביב</address>
+				<Point>
+					<coordinates>34.781385560908,32.045652554243,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>השרביט 4 תל אביב</address>
+				<Point>
+					<coordinates>34.776987515202,32.041636795447,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>פלקירה 7 תל אביב</address>
+				<Point>
+					<coordinates>34.776361845824,32.051996392481,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>כרם חמד 2 תל אביב</address>
+				<Point>
+					<coordinates>34.782377487176,32.048976243014,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>דשבסקי 7 תל אביב</address>
+				<Point>
+					<coordinates>34.780186620394,32.044183939956,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>קפלנסקי 7 תל אביב</address>
+				<Point>
+					<coordinates>34.779665499409,32.043605322375,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>רבי מאיר בעל הנס 5 תל אביב</address>
+				<Point>
+					<coordinates>34.774628088179,32.049718541198,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>החצוצרה 8 תל אביב</address>
+				<Point>
+					<coordinates>34.77639635342,32.043709770879,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>דקל 2 תל אביב</address>
+				<Point>
+					<coordinates>34.768278692863,32.039213910048,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>שלושת החיצים 6 תל אביב</address>
+				<Point>
+					<coordinates>34.773268378308,32.043945011579,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>שבטי ישראל 45 תל אביב</address>
+				<Point>
+					<coordinates>34.755577331442,32.046867675648,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>פסטלוצי 34 תל אביב</address>
+				<Point>
+					<coordinates>34.758074895692,32.0466321423,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>לונץ 11 תל אביב</address>
+				<Point>
+					<coordinates>34.780019636565,32.069829039472,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>העבודה 25 תל אביב</address>
+				<Point>
+					<coordinates>34.775282887298,32.070100977424,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>פליטי הספר 19 תל אביב</address>
+				<Point>
+					<coordinates>34.801465443433,32.068997276457,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>דם המכבים 26 תל אביב</address>
+				<Point>
+					<coordinates>34.800185445973,32.069302705803,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>הרקפת 17 תל אביב</address>
+				<Point>
+					<coordinates>34.765037832048,32.033688413909,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>בצרון 19 תל אביב</address>
+				<Point>
+					<coordinates>34.777821293089,32.066162786355,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>איסרליש 5 תל אביב</address>
+				<Point>
+					<coordinates>34.790633868314,32.071557659826,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>בן אביגדור 5 תל אביב</address>
+				<Point>
+					<coordinates>34.788364702027,32.067351060334,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>הנצי&quot;ב 16 תל אביב</address>
+				<Point>
+					<coordinates>34.790021248933,32.069040395599,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>ההשכלה 38 תל אביב</address>
+				<Point>
+					<coordinates>34.797312897963,32.07032960878,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>ההשכלה 12 תל אביב</address>
+				<Point>
+					<coordinates>34.796492390461,32.066066495657,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>אשרמן יוסף 9 תל אביב</address>
+				<Point>
+					<coordinates>34.777819717027,32.066162408645,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>הצבי 5 תל אביב</address>
+				<Point>
+					<coordinates>34.810319729779,32.056497982671,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>עמישב 50 תל אביב</address>
+				<Point>
+					<coordinates>34.808207914909,32.060388382287,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>חפץ חיים 20 תל אביב</address>
+				<Point>
+					<coordinates>34.79927591483,32.075007544312,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>עמישב 18 תל אביב</address>
+				<Point>
+					<coordinates>34.804442622896,32.063862167282,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>דובנוב 8 תל אביב</address>
+				<Point>
+					<coordinates>34.783609154634,32.074523759798,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>השלום 103 תל אביב</address>
+				<Point>
+					<coordinates>34.804730603637,32.061839109431,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>שולמן 5 תל אביב</address>
+				<Point>
+					<coordinates>34.797418007678,32.068581724156,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>מודיליאני 19 תל אביב</address>
+				<Point>
+					<coordinates>34.784926138196,32.080714605738,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>יהודה הנשיא 6 תל אביב</address>
+				<Point>
+					<coordinates>34.794689630707,32.115434446583,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>דבורה הנביאה 85 תל אביב</address>
+				<Point>
+					<coordinates>34.838958282791,32.116010119155,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>חדרה 2 תל אביב</address>
+				<Point>
+					<coordinates>34.786854787184,32.08553799363,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>עולי הגרדום 7 תל אביב</address>
+				<Point>
+					<coordinates>34.834656105501,32.110382862428,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>שביל האספרגוס 7 תל אביב</address>
+				<Point>
+					<coordinates>34.800230285111,32.068411122931,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>פומבדיתא 9 תל אביב</address>
+				<Point>
+					<coordinates>34.788057159969,32.081734026454,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>אלנקווה 13 תל אביב</address>
+				<Point>
+					<coordinates>34.801279099152,32.047984769534,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>בני אפרים 226 תל אביב</address>
+				<Point>
+					<coordinates>34.817750707141,32.116980658008,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>קדש ברנע 4 תל אביב</address>
+				<Point>
+					<coordinates>34.814923284505,32.113527112683,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>צייטלין 24 תל אביב</address>
+				<Point>
+					<coordinates>34.786004913719,32.079151738069,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>שלומציון המלכה 65 תל אביב</address>
+				<Point>
+					<coordinates>34.788863630409,32.095128032177,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>נגבה 19 תל אביב</address>
+				<Point>
+					<coordinates>34.7966018143,32.054330806451,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>העליה 49 תל אביב</address>
+				<Point>
+					<coordinates>34.772760724457,32.056176072714,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>בית אל 45 תל אביב</address>
+				<Point>
+					<coordinates>34.841562304511,32.117425241977,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>שבטי ישראל 53 תל אביב</address>
+				<Point>
+					<coordinates>34.754933371898,32.045859787396,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>החצוצרה 8 תל אביב</address>
+				<Point>
+					<coordinates>34.776395128734,32.043709261664,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>עמינדב 26 תל אביב</address>
+				<Point>
+					<coordinates>34.795795964733,32.064726406787,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>אנדרסן 22 תל אביב</address>
+				<Point>
+					<coordinates>34.7970875996,32.114385054393,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>שפרינצק 4 תל אביב</address>
+				<Point>
+					<coordinates>34.783400204908,32.071245703563,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>צייטלין 22 תל אביב</address>
+				<Point>
+					<coordinates>34.785424343274,32.079191549678,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>ויצמן 74 תל אביב</address>
+				<Point>
+					<coordinates>34.790584943268,32.092420452465,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>בן יהודה 227 תל אביב</address>
+				<Point>
+					<coordinates>34.775648488258,32.095358533147,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>חידושי הרי&quot;ם      10 תל אביב</address>
+				<Point>
+					<coordinates>34.75565977235,32.043121289727,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>רדינג 26 תל אביב</address>
+				<Point>
+					<coordinates>34.794190519671,32.10669204683,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>שטריקר 19 תל אביב</address>
+				<Point>
+					<coordinates>34.787986003121,32.093147667983,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>דונולו הרופא 12 תל אביב</address>
+				<Point>
+					<coordinates>34.747722887639,32.040549096114,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>אבן ספיר 8 תל אביב</address>
+				<Point>
+					<coordinates>34.828980107199,32.112847536647,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>פרסיץ שושנה 1 תל אביב</address>
+				<Point>
+					<coordinates>34.794390476784,32.131396787969,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>לח&quot;י              46 תל אביב</address>
+				<Point>
+					<coordinates>34.793365976349,32.047516147036,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>הצבי 5 תל אביב</address>
+				<Point>
+					<coordinates>34.810320788578,32.056495357853,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>עשהאל 3 תל אביב</address>
+				<Point>
+					<coordinates>34.837983317044,32.123241082967,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>בנימין מטודלה 8 תל אביב</address>
+				<Point>
+					<coordinates>34.827522874431,32.109136917462,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>צונץ 7 תל אביב</address>
+				<Point>
+					<coordinates>34.76425712369,32.043150325436,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>מעפילי אגוז 76 תל אביב</address>
+				<Point>
+					<coordinates>34.809937936398,32.05366407671,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>המסגר 7 תל אביב</address>
+				<Point>
+					<coordinates>34.784563750888,32.060897718308,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>דרך שלמה 156 תל אביב</address>
+				<Point>
+					<coordinates>34.77980097113,32.053921042934,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>הצנחנים 16 תל אביב</address>
+				<Point>
+					<coordinates>34.839976165188,32.117084718284,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>הפלמ&quot;ח            10 תל אביב</address>
+				<Point>
+					<coordinates>34.793213846497,32.063290798773,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>דרך נמיר מרדכי 81 תל אביב</address>
+				<Point>
+					<coordinates>34.777821317295,32.066159592187,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>מעפילי אגוז 74 תל אביב</address>
+				<Point>
+					<coordinates>34.810235929715,32.053312241529,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>פינס 1 תל אביב</address>
+				<Point>
+					<coordinates>34.765890284722,32.06390269182,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>הירקון 248 תל אביב</address>
+				<Point>
+					<coordinates>34.773072739264,32.091856964614,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>אשכול לוי 94 תל אביב</address>
+				<Point>
+					<coordinates>34.790610199384,32.117588269901,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>לויד ג&apos;ורג&apos; 2 תל אביב</address>
+				<Point>
+					<coordinates>34.780931312693,32.066322141832,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>מאור עינים 7 תל אביב</address>
+				<Point>
+					<coordinates>34.75242336756,32.04155862537,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>כהנשטם 16 תל אביב</address>
+				<Point>
+					<coordinates>34.788134832885,32.089773824514,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>אוליפנט 11 תל אביב</address>
+				<Point>
+					<coordinates>34.780677408856,32.065721474823,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>צה&quot;ל              16 תל אביב</address>
+				<Point>
+					<coordinates>34.827671198459,32.122386269556,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>דרך ההגנה 106 תל אביב</address>
+				<Point>
+					<coordinates>34.794891301787,32.053646844815,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>שמעון התרסי 31 תל אביב</address>
+				<Point>
+					<coordinates>34.781514786407,32.09462551254,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>דרך הטייסים 28 תל אביב</address>
+				<Point>
+					<coordinates>34.805204330632,32.057030698584,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>מנדס פרנס 17 תל אביב</address>
+				<Point>
+					<coordinates>34.777822688083,32.066162398079,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>נחלת יצחק 35 תל אביב</address>
+				<Point>
+					<coordinates>34.800436062718,32.074007908818,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>גרונימן 11 תל אביב</address>
+				<Point>
+					<coordinates>34.798973087424,32.106100469597,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>פרסיץ שושנה 7 תל אביב</address>
+				<Point>
+					<coordinates>34.79654863182,32.134354316463,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>המערכה 9 תל אביב</address>
+				<Point>
+					<coordinates>34.793664280254,32.061634025384,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>אונקלוס 8 תל אביב</address>
+				<Point>
+					<coordinates>34.796324247121,32.095776734679,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>העליה 49 תל אביב</address>
+				<Point>
+					<coordinates>34.772760533656,32.056176794778,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>אהבת ציון 22 תל אביב</address>
+				<Point>
+					<coordinates>34.794032867846,32.08860766564,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>ישראל מסלנט 42 תל אביב</address>
+				<Point>
+					<coordinates>34.781740007708,32.051934994921,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>בלפור 12 תל אביב</address>
+				<Point>
+					<coordinates>34.773367748192,32.067844081219,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>אחד העם 61 תל אביב</address>
+				<Point>
+					<coordinates>34.776983242482,32.067541719605,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>דקל 7 תל אביב</address>
+				<Point>
+					<coordinates>34.768544177532,32.040457198041,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>שפירא צבי הרמן 21 תל אביב</address>
+				<Point>
+					<coordinates>34.777887675172,32.075409783636,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>דרך בר-לב חיים 186 תל אביב</address>
+				<Point>
+					<coordinates>34.777823671304,32.066160393272,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>ז&apos;בוטינסקי 106 תל אביב</address>
+				<Point>
+					<coordinates>34.785142317316,32.087567357574,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>בצרון 19 תל אביב</address>
+				<Point>
+					<coordinates>34.777823036008,32.066160033308,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>קפלנסקי 2 תל אביב</address>
+				<Point>
+					<coordinates>34.778883062685,32.043980789132,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>גבעתי 4 תל אביב</address>
+				<Point>
+					<coordinates>34.796163497506,32.05184462062,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>עירית 19 תל אביב</address>
+				<Point>
+					<coordinates>34.749724822268,32.035716805308,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>מודיליאני 19 תל אביב</address>
+				<Point>
+					<coordinates>34.784926512948,32.080711376662,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>מושיע 21 תל אביב</address>
+				<Point>
+					<coordinates>34.79479439228,32.050901420328,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>נועם 8 תל אביב</address>
+				<Point>
+					<coordinates>34.757120099774,32.051054942337,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>פרסיץ שושנה 1 תל אביב</address>
+				<Point>
+					<coordinates>34.794390703427,32.131398419065,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>פסטלוצי 34 תל אביב</address>
+				<Point>
+					<coordinates>34.758073530949,32.046630132989,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>נחל שורק 5 תל אביב</address>
+				<Point>
+					<coordinates>34.760567356957,32.039388015119,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>לח&quot;י              48 תל אביב</address>
+				<Point>
+					<coordinates>34.79376077193,32.04755152641,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>קדם 40 תל אביב</address>
+				<Point>
+					<coordinates>34.7490529392,32.046673191209,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט במוסד חינוך</value>
+							</Data>
+									</ExtendedData>
+								<address>הרצל 155 תל אביב</address>
+				<Point>
+					<coordinates>34.769124243352,32.048073086814,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>שניאור זלמן 4 תל אביב</address>
+				<Point>
+					<coordinates>34.837907865378,32.146603812876,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>שניאור זלמן 6 תל אביב</address>
+				<Point>
+					<coordinates>34.837992767963,32.146815968282,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>מונאש 22 תל אביב</address>
+				<Point>
+					<coordinates>34.777819221681,32.066161452534,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>מיקלט ציבורי</value>
+							</Data>
+									</ExtendedData>
+								<address>הוברמן 4 תל אביב</address>
+				<Point>
+					<coordinates>34.780111897878,32.071954193978,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>השלושה 2 תל אביב</address>
+				<Point>
+					<coordinates>34.788920320312,32.06199118825,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>המסגר 9 תל אביב</address>
+				<Point>
+					<coordinates>34.784809478164,32.061868490021,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>יגאל אלון 90 תל אביב</address>
+				<Point>
+					<coordinates>34.793038420095,32.067461143407,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>יגאל אלון 96 תל אביב</address>
+				<Point>
+					<coordinates>34.793649354509,32.06962853959,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>אחד העם 14 תל אביב</address>
+				<Point>
+					<coordinates>34.769226295944,32.063545013916,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>אחד העם 9 תל אביב</address>
+				<Point>
+					<coordinates>34.769464561496,32.063583325847,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>המלאכה 3 תל אביב</address>
+				<Point>
+					<coordinates>34.785291317287,32.066588747408,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>בגין מנחם 86 תל אביב</address>
+				<Point>
+					<coordinates>34.786133730962,32.067961736632,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>בגין מנחם 148 תל אביב</address>
+				<Point>
+					<coordinates>34.794474380197,32.079018690632,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>בגין מנחם 74 תל אביב</address>
+				<Point>
+					<coordinates>34.78458303338,32.066635779949,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>רוטשילד 41 תל אביב</address>
+				<Point>
+					<coordinates>34.774472372923,32.064069467363,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>תובל 5 תל אביב</address>
+				<Point>
+					<coordinates>34.794854450005,32.070185701226,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>אלון יגאל 120 תל אביב</address>
+				<Point>
+					<coordinates>34.795230091057,32.073890304543,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>בגין מנחם 37 תל אביב</address>
+				<Point>
+					<coordinates>34.782268988888,32.064871731892,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>ברקובץ 7 תל אביב</address>
+				<Point>
+					<coordinates>34.884376962709,32.087582627163,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>אבן גבירול 71 תל אביב</address>
+				<Point>
+					<coordinates>34.781215901409,32.082795996838,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>לוריא 8 תל אביב</address>
+				<Point>
+					<coordinates>34.771777110171,32.077583105175,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>אבן גבירול 124 תל אביב</address>
+				<Point>
+					<coordinates>34.782172003325,32.087028045161,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>הארבעה 19 תל אביב</address>
+				<Point>
+					<coordinates>34.78670333505,32.070380760227,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>הוברמן 1 תל אביב</address>
+				<Point>
+					<coordinates>34.780341080367,32.07292028878,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>יגאל אלון 126 תל אביב</address>
+				<Point>
+					<coordinates>34.795432422293,32.074406086097,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>לוינסקי 39 תל אביב</address>
+				<Point>
+					<coordinates>34.771636178213,32.059807766893,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>הירדן 4 תל אביב</address>
+				<Point>
+					<coordinates>34.766033772016,32.074238258073,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>מנחם בגין 52 תל אביב</address>
+				<Point>
+					<coordinates>34.780317847474,32.063614629874,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>מנחם בגין 46 תל אביב</address>
+				<Point>
+					<coordinates>34.779900510676,32.063413812398,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>יגאל אלון 63 תל אביב</address>
+				<Point>
+					<coordinates>34.792480962734,32.065497939134,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>השלושה 13 תל אביב</address>
+				<Point>
+					<coordinates>34.791139871615,32.062002963356,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>דובנוב 7 תל אביב</address>
+				<Point>
+					<coordinates>34.783455143027,32.075178031239,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>גו&apos;רג&apos; וויז 2 תל אביב</address>
+				<Point>
+					<coordinates>34.802105963962,32.106545539921,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>מנחם בגין 132 תל אביב</address>
+				<Point>
+					<coordinates>34.791009555558,32.074382047293,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>ריב&quot;ל 7 תל אביב</address>
+				<Point>
+					<coordinates>34.782294417305,32.062698042302,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>קרית עתידים 6 תל אביב</address>
+				<Point>
+					<coordinates>34.777820057421,32.066161526105,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>הרכבת 28 תל אביב</address>
+				<Point>
+					<coordinates>34.779717797842,32.062617085166,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>מנחם בגין 125 תל אביב</address>
+				<Point>
+					<coordinates>34.78991761127,32.072776758909,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>שנקר אריה 3 תל אביב</address>
+				<Point>
+					<coordinates>34.776919455742,32.027823174067,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>רוטשילד 46 תל אביב</address>
+				<Point>
+					<coordinates>34.774620030221,32.063874472087,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>נחלת יצחק 20 תל אביב</address>
+				<Point>
+					<coordinates>34.798144387851,32.07460431873,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>פנחס רוזן 72 תל אביב</address>
+				<Point>
+					<coordinates>34.825467635391,32.11460085176,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>בית עובד 15 תל אביב</address>
+				<Point>
+					<coordinates>34.787932794733,32.064030462353,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>יד חרוצים 14 תל אביב</address>
+				<Point>
+					<coordinates>34.783294858279,32.061836119525,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>החשמל 9 תל אביב</address>
+				<Point>
+					<coordinates>34.77549359603,32.061194312431,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>מנחם בגין 154 תל אביב</address>
+				<Point>
+					<coordinates>34.795641083764,32.079921984056,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>ברקוביץ 6 תל אביב</address>
+				<Point>
+					<coordinates>34.786683534756,32.078117455419,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>רבי פנחס 4 תל אביב</address>
+				<Point>
+					<coordinates>34.754803288853,32.052933865094,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>דיזנגוף 50 תל אביב</address>
+				<Point>
+					<coordinates>34.775273927202,32.075342078571,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>יהודה הלוי 63 תל אביב</address>
+				<Point>
+					<coordinates>34.775629088096,32.063257909801,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>יהודה הלוי 23 תל אביב</address>
+				<Point>
+					<coordinates>34.770412445605,32.061524661921,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>יהודה הלוי 34 תל אביב</address>
+				<Point>
+					<coordinates>34.771406612128,32.061643179843,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>יהודה הלוי 37 תל אביב</address>
+				<Point>
+					<coordinates>34.772192410518,32.061740387375,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>מנחם בגין 46 תל אביב</address>
+				<Point>
+					<coordinates>34.779900369329,32.063411628093,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>מנחם בגין 52 תל אביב</address>
+				<Point>
+					<coordinates>34.780318639391,32.063614659519,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>לוינסקי 108 תל אביב</address>
+				<Point>
+					<coordinates>34.779853205005,32.056641018516,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>שאול המלך 8 תל אביב</address>
+				<Point>
+					<coordinates>34.783949807473,32.075565729197,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>שאול המלך 35 תל אביב</address>
+				<Point>
+					<coordinates>34.789884958236,32.077366806259,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>שאול המלך 39 תל אביב</address>
+				<Point>
+					<coordinates>34.790966224012,32.077726822221,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>ארלוזורוב 111 תל אביב</address>
+				<Point>
+					<coordinates>34.786427096325,32.084360139616,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>טרומפלדור 15 תל אביב</address>
+				<Point>
+					<coordinates>34.767829326369,32.075433598692,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>אלנבי 105 תל אביב</address>
+				<Point>
+					<coordinates>34.772833970398,32.063923174476,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>הירקון 79 תל אביב</address>
+				<Point>
+					<coordinates>34.767089528291,32.076787042947,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='סוג המקלט'>
+								<value>חניון מחסה לציבור</value>
+							</Data>
+									</ExtendedData>
+								<address>הרכבת 30 תל אביב</address>
+				<Point>
+					<coordinates>34.77992301556,32.062451074073,0</coordinates>
+				</Point>
+			</Placemark>
+		<Style id="0"><IconStyle><scale>1</scale><Icon><href>http://static.batchgeo.com/images/icons/red_shadow_Marker.png</href></Icon><hotSpot x=".3" y=".8" xunits="fraction" yunits="fraction" /></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style><Style id="1"><IconStyle><scale>1</scale><Icon><href>http://static.batchgeo.com/images/icons/blue_shadow_Marker.png</href></Icon><hotSpot x=".3" y=".8" xunits="fraction" yunits="fraction" /></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style><Style id="2"><IconStyle><scale>1</scale><Icon><href>http://static.batchgeo.com/images/icons/green_shadow_Marker.png</href></Icon><hotSpot x=".3" y=".8" xunits="fraction" yunits="fraction" /></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>	</Document>
+</kml>
