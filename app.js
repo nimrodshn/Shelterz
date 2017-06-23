@@ -39,6 +39,7 @@ app.get('/', function (req, res) {
 app.post('/lat/:lat/lan/:lan', function (req, res){
   for (var i in list_of_shelters){
     console.log(list_of_shelters[i])
+    
     // compute distance here using users latitude and lan.
     // display the best location to the user.
   }
