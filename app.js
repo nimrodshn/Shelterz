@@ -7,16 +7,15 @@ const path = require('path');
 */
 const shelterzController = require('./controllers/shelterzController.js')
 
-
 /** Routes
 */
 app.get('/', function (req, res) {
-  res.sendFile(path.join(__dirname, 'client', 'index.html'));
+  res.sendFile(path.join(__dirname, 'views', 'index.html'));
 });
 
 app.post('/lat/:lat/lon/:lon', shelterzController.postShelter);
 
-var server = app.listen(8080, function () {
+var server = app.listen(process.env.PORT || 8080, function () {
    var host = server.address().address;
    var port = server.address().port;
    console.log("Example app listening at http://%s:%s", host, port);
