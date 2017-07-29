@@ -1,14 +1,9 @@
 const fs = require('fs');
+const pg = require('pg');
+const connectionString = process.env.DATABASE_URL || 'postgresql://postgres:1234@localhost:5432/shelterz';
 
-let list_of_shelters = 0;
-
-function parseShelterz(){
-  // Should be in a different file?
-  // Should be pushed to db .
-  // Parsing JSON.
-  db = fs.readFileSync('db/kml.json', 'utf8');
-  return JSON.parse(db)["features"];
-}
+const client = new pg.Client(connectionString);
+client.connect();
 
 /* Calculate the distance between two points given in lat / lon coordinates using the 'Haversine' formula.
 */
@@ -23,22 +18,32 @@ function calculateDistance(lat1,lon1,lat2,lon2){
 
 /* Compute the closest shelter to the location given by lat and lan.
 */
-function computeMinimalDistance(lat,lon){
-  let min_distance = calculateDistance(list_of_shelters[0]['geometry']['coordinates'][0],list_of_shelters[0]['geometry']['coordinates'][1],lat,lon);
-  let closest_shelter = {};
-  for (let i=0;i<list_of_shelters.length;i++){
-    let curr_distance = calculateDistance(list_of_shelters[i]['geometry']['coordinates'][0],list_of_shelters[i]['geometry']['coordinates'][1],lat,lon);
-    if (curr_distance < min_distance) {
-      min_distance = curr_distance;
-      closest_shelter['lat'] = list_of_shelters[i]['geometry']['coordinates'][0];
-      closest_shelter['lon'] = list_of_shelters[i]['geometry']['coordinates'][1];
+function computeMinimalDistance(lat,lon,postRes){
+  const query = {text:"SELECT * FROM shelters", rowMode : 'array'};
+  console.log('got here with lat : ' + lat + " lon : " + lon);
+  let result = {};
+  client.query(query, (err,res) => {
+    if (err){
+      console.log(err);
     }
-  }
-  return closest_shelter;
+    else{
+      let list_of_shelters = res.rows;
+      let min_distance = calculateDistance(list_of_shelters[0][1],list_of_shelters[0][2],lat,lon);
+      let closest_shelter = {};
+      for (let i=0;i<list_of_shelters.length;i++){
+        let curr_distance = calculateDistance(list_of_shelters[i][1],list_of_shelters[i][2],lat,lon);
+        if (curr_distance < min_distance) {
+          min_distance = curr_distance;
+          closest_shelter['lat'] = list_of_shelters[i][1];
+          closest_shelter['lon'] = list_of_shelters[i][2];
+        }
+      }
+      console.log(closest_shelter);
+      postRes.send(closest_shelter);
+    }
+  });
 }
 
-exports.postShelter = (req,res) => {
-  list_of_shelters = parseShelterz();
-  let closest_shelter = computeMinimalDistance(req.params['lat'],req.params['lon']);
-  res.send(closest_shelter);
+exports.postShelter = (postReq,postRes) => {
+  computeMinimalDistance(req.params['lat'],req.params['lon'], postRes);
 }
