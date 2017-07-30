@@ -1,3 +1,4 @@
+"use strict";
 const fs = require('fs');
 const pg = require('pg');
 const connectionString = process.env.DATABASE_URL || 'postgresql://postgres:1234@localhost:5432/shelterz';
@@ -18,7 +19,7 @@ function calculateDistance(lat1,lon1,lat2,lon2){
 
 /* Compute the closest shelter to the location given by lat and lan.
 */
-function computeMinimalDistance(lat,lon,postRes){
+function computeMinimalDistance(lat,lon, cb){
   const query = {text:"SELECT * FROM shelters", rowMode : 'array'};
   console.log('got here with lat : ' + lat + " lon : " + lon);
   let result = {};
@@ -38,12 +39,15 @@ function computeMinimalDistance(lat,lon,postRes){
           closest_shelter['lon'] = list_of_shelters[i][2];
         }
       }
-      console.log(closest_shelter);
-      postRes.send(closest_shelter);
+      // debug
+      // console.log(closest_shelter);
+      cb(closest_shelter)
     }
   });
 }
 
-exports.postShelter = (postReq,postRes) => {
-  computeMinimalDistance(req.params['lat'],req.params['lon'], postRes);
+exports.postShelter = (req,res) => {
+  computeMinimalDistance(req.params['lat'],req.params['lon'], function(closest_shelter){
+    res.send(closest_shelter);
+  });
 }
