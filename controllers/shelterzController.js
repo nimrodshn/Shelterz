@@ -9,27 +9,27 @@ client.connect();
 // Controllers
 
 exports.postShelter = (req,res) => {
-  computeMinimalDistance(req.params, function(closest_shelter){
+  computeMinimalDistanceEntry(req.params, function(closest_shelter){
     res.send(closest_shelter);
   });
 }
 
-// Helper functions
+// Helper Methods
 
 /* Calculate the distance between two points given in lat / lon coordinates using the 'Haversine' formula.
 */
 function calculateDistance(p1,p2){
   let p = 0.017453292519943295;    // Math.PI / 180
   let c = Math.cos;
-  let a = 0.5 - c((p1['lat'] - p2['lat']) * p)/2 +
-         c(p1['lat'] * p) * c(p2['lat'] * p) *
-         (1 - c((p1['lon'] - p1['lon']) * p))/2;
+  let a = 0.5 - c((p1.lat - p2.lat) * p)/2 +
+         c(p1.lat * p) * c(p2.lat * p) *
+         (1 - c((p1.lon - p1.lon) * p))/2;
  return 12742 * Math.asin(Math.sqrt(a));
 }
 
 /* Compute the closest shelter to the location given by lat and lan.
 */
-function computeMinimalDistance(current_location, callback){
+function computeMinimalDistanceEntry(current_location, callback){
   const query = {text:"SELECT * FROM shelters", rowMode : 'array'};
   console.log('got here with lat : ' + current_location['lat'] + " lon : " + current_location['lon']);
   let result = {};
@@ -54,8 +54,8 @@ function findMinimalEntry(arr, metric, current_location) {
     let curr_distance = metric(arr[i],current_location);
     if (curr_distance < min_distance) {
       min_distance = curr_distance;
-      closest_shelter['lat'] = arr[i]['lat'];
-      closest_shelter['lon'] = arr[i]['lon'];
+      closest_shelter.lat = arr[i].lat;
+      closest_shelter.lon = arr[i].lon;
     }
   }
   return closest_shelter;
