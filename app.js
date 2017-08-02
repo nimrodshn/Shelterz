@@ -1,3 +1,4 @@
+"use strict";
 const express = require('express');
 const http = require('https');
 const app = express();
