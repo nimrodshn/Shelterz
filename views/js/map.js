@@ -1,6 +1,5 @@
 let map, infoWindow, uluru;
 function initMap() {
-  console.log('got here!');
   uluru = {lat: 31.2530, lng: 34.7915};
     map = new google.maps.Map(document.getElementById('map'), {
     zoom: 15,
@@ -18,7 +17,6 @@ function initMap() {
           position: pos,
           map: map
         });
-        infoWindow.open(map);
         map.setCenter(pos);
       }, function() {
         handleLocationError(true, infoWindow, map.getCenter());
