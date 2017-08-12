@@ -14,7 +14,9 @@ app.get('/', function (req, res) {
   res.sendFile(path.join(__dirname, 'views', 'index.html'));
 });
 
-app.post('/lat/:lat/lon/:lon', shelterzController.postShelter);
+app.post('/find_event/lat/:lat/lon/:lon', shelterzController.findEvent);
+app.post('/add_event/lat/:lat/lon/:lon', shelterzController.addEvent);
+app.post('/remove_event/lat/:lat/lon/:lon', shelterzController.removeEvent)
 
 var server = app.listen(process.env.PORT || 8080, function () {
    var host = server.address().address;
