@@ -1,15 +1,13 @@
-let map, infoWindow, uluru;
+let map, infoWindow, pos;
 function initMap() {
-  uluru = {lat: 31.2530, lng: 34.7915};
     map = new google.maps.Map(document.getElementById('map'), {
     zoom: 15,
-    center: uluru
   });
-  infoWindow = new google.maps.InfoWindow;
+  infoWindow = new google.maps.InfoWindow();
 
   if (navigator.geolocation) {
       navigator.geolocation.getCurrentPosition(function(position) {
-        let pos = {
+        pos = {
           lat: position.coords.latitude,
           lng: position.coords.longitude
         };

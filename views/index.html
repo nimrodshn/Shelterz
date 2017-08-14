@@ -1,27 +1,21 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <style>
-      html, body{
-        width: auto;
-        height: auto;
-      }
-      #map {
-        height: 100vh;
-        width: 100%;
-       }
-    </style>
+    <link rel="stylesheet" href="/css/styles.css">
   </head>
   <body>
+    <div id="wrapper">
     <div id="map"></div>
-
-    <script src="/js/map.js"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCKncGgTEiZdPe6KNuaPjjYtpcraSuHgx4&callback=initMap"></script>
     <div id="menu">
+      <button class="menu_button" data-action="addEvent">Add Event</button>
+      <button class="menu_button" data-action="findSpecificEvent">Find Specific Event</button>
+      <button class="menu_button" data-action="closestEvent">Closest Event</button>
+      <button class="menu_button" data-action="login">Login with Facebook</button>
       <button id="open_menu"></button>
-      <button id="closest_shelter">Closest Shelter</button>
-      <button id="add_shelter">Add Shelter</button>
-      <button id="find_shelter">Find Specific Shelter</button>
     </div>
+  </div>
+  <script src="/js/map.js"></script>
+  <script src="/js/menu.js"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCKncGgTEiZdPe6KNuaPjjYtpcraSuHgx4&callback=initMap"></script>
   </body>
 </html>

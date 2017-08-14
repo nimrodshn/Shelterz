@@ -14,9 +14,22 @@ app.get('/', function (req, res) {
   res.sendFile(path.join(__dirname, 'views', 'index.html'));
 });
 
-app.post('/find_event/lat/:lat/lon/:lon', shelterzController.findEvent);
-app.post('/add_event/lat/:lat/lon/:lon', shelterzController.addEvent);
-app.post('/remove_event/lat/:lat/lon/:lon', shelterzController.removeEvent)
+app.get('/css/styles.css', function (req, res) {
+  res.sendFile(path.join(__dirname, 'views', 'css', 'styles.css'));
+});
+
+app.get('/js/map.js', function (req, res) {
+  res.sendFile(path.join(__dirname, 'views', 'js', 'map.js'));
+});
+
+app.get('/js/menu.js', function (req, res) {
+  res.sendFile(path.join(__dirname, 'views', 'js', 'menu.js'));
+});
+
+app.get('/find_closest_event/lat/:lat/lng/:lng', shelterzController.findClosestEvent);
+app.post('/find_specific_event/lat/:lat/lng/:lng', shelterzController.findSpecificEvent);
+app.post('/add_event/lat/:lat/lng/:lng', shelterzController.addEvent);
+app.post('/remove_event/lat/:lat/lng/:lng', shelterzController.removeEvent)
 
 var server = app.listen(process.env.PORT || 8080, function () {
    var host = server.address().address;
