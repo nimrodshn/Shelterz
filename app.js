@@ -26,10 +26,10 @@ app.get('/js/menu.js', function (req, res) {
   res.sendFile(path.join(__dirname, 'views', 'js', 'menu.js'));
 });
 
-app.get('/find_closest_event/lat/:lat/lng/:lng', shelterzController.findClosestEvent);
-app.post('/find_specific_event/lat/:lat/lng/:lng', shelterzController.findSpecificEvent);
-app.post('/add_event/lat/:lat/lng/:lng', shelterzController.addEvent);
-app.post('/remove_event/lat/:lat/lng/:lng', shelterzController.removeEvent)
+app.get('/find_closest_shelter/lat/:lat/lng/:lng', shelterzController.findClosestShelter);
+app.post('/find_specific_shelter/lat/:lat/lng/:lng', shelterzController.findSpecificShelter);
+app.post('/add_shelter/lat/:lat/lng/:lng', shelterzController.addShelter);
+app.post('/remove_shelter/lat/:lat/lng/:lng', shelterzController.removeShelter)
 
 var server = app.listen(process.env.PORT || 8080, function () {
    var host = server.address().address;

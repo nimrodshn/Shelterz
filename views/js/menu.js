@@ -8,26 +8,28 @@ class Menu {
     elem.addEventListener("click",this.onClick.bind(this));
   }
 
-  addEvent() {
+  addShelter() {
     alert('adding..');
   }
 
-  findSpecificEvent() {
+  findSpecificShelter() {
     alert('finding..');
   }
 
-  closestEvent() {
+  closestShelter() {
     if (userPosition){
       alert('looking for position....');
-      let url = 'find_closest_event/lat/' + userPosition.lat + '/lng/' + userPosition.lng // userPosition is defined in map.js as a global variable.
+      let url = 'find_closest_shelter/lat/' + userPosition.lat + '/lng/' + userPosition.lng // userPosition is defined in map.js as a global variable.
       fetch(url).then(function(response){
         return response.json();
-      }).then(function(closest_event) {
-        console.log(closest_event);
+      }).then(function(closest_shelter) {
+        console.log(closest_shelter);
         let marker = new google.maps.Marker({
           position: {lat: parseFloat(closest_event.lat), lng: parseFloat(closest_event.lng)},
           map: map
         });
+      }).catch(function(err) {
+        alert(err);
       });
     }
     else{
@@ -55,4 +57,4 @@ class Menu {
   }
 }
 
-new Menu(document.getElementById('menu'));
+let menu = new Menu(document.getElementById('menu'));
