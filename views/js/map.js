@@ -1,4 +1,4 @@
-let map, infoWindow, pos;
+let map, infoWindow, userPosition;
 function initMap() {
     map = new google.maps.Map(document.getElementById('map'), {
     zoom: 15,
@@ -7,15 +7,15 @@ function initMap() {
 
   if (navigator.geolocation) {
       navigator.geolocation.getCurrentPosition(function(position) {
-        pos = {
+        userPosition = {
           lat: position.coords.latitude,
           lng: position.coords.longitude
         };
         let marker = new google.maps.Marker({
-          position: pos,
+          position: userPosition,
           map: map
         });
-        map.setCenter(pos);
+        map.setCenter(userPosition);
       }, function() {
         handleLocationError(true, infoWindow, map.getCenter());
       });

@@ -1,6 +1,6 @@
 html, body{
   width: auto;
-  height:e auto;
+  height:auto;
 }
 #wrapper { position: relative; }
 #map {
@@ -15,5 +15,6 @@ html, body{
   padding: 10px;
   border-radius: 25px;
   background: gray;
-  width:auto;
+  width: auto;
+  transition: height 10s;
 }

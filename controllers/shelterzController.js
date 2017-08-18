@@ -76,21 +76,22 @@ function calculateDistance(p1,p2){
 /* Compute the closest shelter to the location given by lat and lan.
 */
 function computeMinimalDistanceEntry(current_location, callback){
-  const query = {text:"SELECT * FROM shelters", rowMode : 'array'};
-  console.log('got here with lat : ' + current_location['lat'] + " lng : " + current_location['lng']);
-  let result = {};
-  client.query(query, (err,res) => {
-    if (err){
-      console.log(err);
-    }
-    else{
-      let points_array = res.rows.map(function(row) {
-        return {lat:row[1], lng:row[2]};
-      });
-      let closest_shelter = findMinimalEntry(points_array, calculateDistance, current_location);
-      callback(closest_shelter);
-    }
-  });
+    const query = {text:"SELECT * FROM shelters", rowMode : 'array'};
+    console.log('got here with lat : ' + current_location['lat'] + " lng : " + current_location['lng']);
+    let result = {};
+    client.query(query, (err,res) => {
+      if (err){
+        console.log(err);
+        reject(err);
+      }
+      else{
+        let points_array = res.rows.map(function(row) {
+          return {lat:row[1], lng:row[2]};
+        });
+        let closest_shelter = findMinimalEntry(points_array, calculateDistance, current_location);
+        callback(closest_shelter);
+      }
+    });
 }
 
 function findMinimalEntry(arr, metric, current_location) {
