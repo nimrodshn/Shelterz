@@ -28,7 +28,7 @@ app.get('/js/menu.js', function (req, res) {
 
 app.get('/find_closest_shelter/lat/:lat/lng/:lng', shelterzController.findClosestShelter);
 app.post('/find_specific_shelter/lat/:lat/lng/:lng', shelterzController.findSpecificShelter);
-app.post('/add_shelter/lat/:lat/lng/:lng', shelterzController.addShelter);
+app.post('/add_shelter/lat/:lat/lng/:lng/fb/:fb', shelterzController.addShelter);
 app.post('/remove_shelter/lat/:lat/lng/:lng', shelterzController.removeShelter)
 
 var server = app.listen(process.env.PORT || 8080, function () {

@@ -56,11 +56,19 @@ function addMarker(position){
 }
 
 function addShelterFromMapClick(event) {
-  url = "/add_shelter/lat/" + infoWindow.getPosition().lat() + "/lng/" + infoWindow.getPosition().lng();
+  let fb = "false"
+  let url = "/add_shelter/lat/" + infoWindow.getPosition().lat() + "/lng/" + infoWindow.getPosition().lng() + "/fb/" + fb;
   postAddShelter(url);
 }
 
 function postAddShelter(url){
-  // connect to db
-  alert("adding new shelter!");
+  console.log(url);
+  fetch(url, {method: 'post'}).then(function (response){
+    if (infoWindow) {
+      infoWindow.close()
+    }
+    alert("succesfuly added a shelter!");
+  }).catch(function (err){
+    alert("something bad happend...");
+  });
 }

@@ -49,8 +49,8 @@ function removeShelterHelper(shelter_to_remove, callback){
 }
 
 function addShelterHelper(new_shelter, callback){
-  const query = {text:"INSERT INTO shelters (lat, lng) VALUES (" + new_shelter.lat +  new_shelter.lng + new_shelter.fb + ")", rowMode : 'array'};
-  console.log('got here with lat : ' + new_shelter.lng + " lng : " + new_shelter.lng + " fb : " + new_shelter.fb);
+  const query = {text:"INSERT INTO shelters (lat, lng , fb) VALUES (" + new_shelter.lat + "," + new_shelter.lng + "," +  new_shelter.fb + ")", rowMode : 'array'};
+  console.log('query: ' + query.text);
   let result = {};
   client.query(query, (err,res) => {
     if (err){
@@ -91,7 +91,7 @@ function computeMinimalDistanceEntry(current_location, callback){
           let closest_shelter = findMinimalEntry(points_array, calculateDistance, current_location);
           callback(closest_shelter);
         } else {
-          alert("No events found near you in DB!");
+          console.log("No events found near you in DB!");
         }
       }
     });
