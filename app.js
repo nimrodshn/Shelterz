@@ -26,6 +26,15 @@ app.get('/js/menu.js', function (req, res) {
   res.sendFile(path.join(__dirname, 'views', 'js', 'menu.js'));
 });
 
+app.get('/js/fb.js', function (req, res) {
+  res.sendFile(path.join(__dirname, 'views', 'js', 'fb.js'));
+});
+
+app.get('/js/shelterzClient.js', function (req, res) {
+    res.sendFile(path.join(__dirname, 'views', 'js', 'shelterzClient.js'));
+});
+
+
 app.get('/find_closest_shelter/lat/:lat/lng/:lng', shelterzController.findClosestShelter);
 app.post('/find_specific_shelter/lat/:lat/lng/:lng', shelterzController.findSpecificShelter);
 app.post('/add_shelter/lat/:lat/lng/:lng/fb/:fb', shelterzController.addShelter);

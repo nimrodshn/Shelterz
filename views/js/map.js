@@ -1,9 +1,13 @@
+"use strict";
+
 let map, infoWindow, userPosition, addingShelter;
 function initMap() {
     map = new google.maps.Map(document.getElementById('map'), {
     zoom: 15,
   });
 
+  // add marker (representing a new shelter) to map simply by clicking on it
+  // TODO: make this behavior compatible with all markers on map.
   google.maps.event.addListener(map, "click", function(event){
     addMarker(event.latLng)
   });
@@ -14,7 +18,7 @@ function initMap() {
           lat: position.coords.latitude,
           lng: position.coords.longitude
         };
-        let marker = new google.maps.Marker({
+        new google.maps.Marker({
           position: userPosition,
           map: map
         });
@@ -44,10 +48,11 @@ function addMarker(position){
     });
     infoWindow = new google.maps.InfoWindow({
       content: '<p> would you like to add a shelter here? </p>' +
-                '<button onclick=addShelterFromMapClick(this)>Let\'s hangout!</button>'
+               '<button onclick=addShelterFromMapClick()>Let\'s hangout!</button>'
     });
     infoWindow.open(map, marker);
     addingShelter = true;
+    // Every marker added here can be removed from map by a "right click" event.
     google.maps.event.addListener(marker, "rightclick", function(event){
         addingShelter = false;
         marker.setMap(null);
@@ -55,20 +60,9 @@ function addMarker(position){
   }
 }
 
-function addShelterFromMapClick(event) {
+function addShelterFromMapClick() {
   let fb = "false"
   let url = "/add_shelter/lat/" + infoWindow.getPosition().lat() + "/lng/" + infoWindow.getPosition().lng() + "/fb/" + fb;
-  postAddShelter(url);
-}
-
-function postAddShelter(url){
-  console.log(url);
-  fetch(url, {method: 'post'}).then(function (response){
-    if (infoWindow) {
-      infoWindow.close()
-    }
-    alert("succesfuly added a shelter!");
-  }).catch(function (err){
-    alert("something bad happend...");
-  });
+  let client = new shelterzClient();
+  client.makeApiCall(url,"post");
 }

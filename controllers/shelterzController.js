@@ -6,7 +6,7 @@ const connectionString = process.env.DATABASE_URL || 'postgresql://postgres:1234
 const client = new pg.Client(connectionString);
 client.connect();
 
-// Controllers
+// API Controllers
 
 exports.findClosestShelter = (req,res) => {
   computeMinimalDistanceEntry(req.params, function(closest_event) {
@@ -99,7 +99,7 @@ function computeMinimalDistanceEntry(current_location, callback){
 
 function findMinimalEntry(arr, metric, current_location) {
   let min_distance = metric(arr[0],current_location);
-  let closest_shelter = {};
+  let closest_shelter = {lat:arr[0].lat, lng: arr[0].lng};
   for (let i=0;i<arr.length;i++){
     let curr_distance = metric(arr[i],current_location);
     if (curr_distance < min_distance) {
