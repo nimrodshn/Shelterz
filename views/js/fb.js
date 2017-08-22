@@ -11,12 +11,20 @@ window.fbAsyncInit = function() {
     });
 };
 
+/**
+ * Check the fb login status upon app start
+ */
 function checkLoginState() {
     FB.getLoginStatus(function(response) {
         statusChangeCallback(response);
     });
 }
 
+/**
+ * Callback for fb sdk call.
+ * This will render events as markers on the map.
+ * @param response
+ */
 function statusChangeCallback(response){
     console.log(response);
     // TODO: Do some animation here.

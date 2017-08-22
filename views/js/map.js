@@ -53,6 +53,7 @@ function addMarker(position){
     infoWindow.open(map, marker);
     addingShelter = true;
     // Every marker added here can be removed from map by a "right click" event.
+    // TODO: make this behavior compatible with every marker on the map (maybe except my own position).
     google.maps.event.addListener(marker, "rightclick", function(event){
         addingShelter = false;
         marker.setMap(null);

@@ -1,4 +1,3 @@
-
 class shelterzClient {
     makeApiCall(url, verb, callback=null) {
         console.log(url); // debug

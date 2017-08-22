@@ -4,7 +4,7 @@ const http = require('https');
 const app = express();
 const path = require('path');
 
-/** Controllers:
+/**  Import Controllers
 */
 const shelterzController = require('./controllers/shelterzController.js')
 
@@ -33,7 +33,6 @@ app.get('/js/fb.js', function (req, res) {
 app.get('/js/shelterzClient.js', function (req, res) {
     res.sendFile(path.join(__dirname, 'views', 'js', 'shelterzClient.js'));
 });
-
 
 app.get('/find_closest_shelter/lat/:lat/lng/:lng', shelterzController.findClosestShelter);
 app.post('/find_specific_shelter/lat/:lat/lng/:lng', shelterzController.findSpecificShelter);
