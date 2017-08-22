@@ -22,7 +22,8 @@ class Menu {
     if (userPosition){
       alert('looking for position....');
       let url = 'find_closest_shelter/lat/' + userPosition.lat + '/lng/' + userPosition.lng // userPosition is defined in map.js as a global variable.
-      this._client.makeApiCall(url, "get", closest_shelter => {console.log(closest_shelter);
+      this._client.makeApiCall(url, "get", closest_shelter => {
+              debugger
               let marker = new google.maps.Marker({
                 position: {lat: parseFloat(closest_shelter.lat), lng: parseFloat(closest_shelter.lng)},
                 map: map

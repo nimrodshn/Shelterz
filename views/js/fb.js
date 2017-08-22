@@ -5,7 +5,33 @@ window.fbAsyncInit = function() {
         version    : 'v2.10'
     });
     FB.AppEvents.logPageView();
+
+    FB.getLoginStatus(function(response) {
+        statusChangeCallback(response);
+    });
 };
+
+function checkLoginState() {
+    FB.getLoginStatus(function(response) {
+        statusChangeCallback(response);
+    });
+}
+
+function statusChangeCallback(response){
+    console.log(response);
+    // TODO: Do some animation here.
+    alert("logging your events...")
+    FB.api('/me/events', function(response) {
+        for (let event of response.data){
+            if (event.place.location) {
+                new google.maps.Marker({
+                    position: {lat: event.place.location.latitude, lng: event.place.location.longitude},
+                    map: map
+                });
+            }
+        }
+    });
+}
 
 (function(d, s, id){
     var js, fjs = d.getElementsByTagName(s)[0];
