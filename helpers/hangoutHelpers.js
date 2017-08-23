@@ -43,8 +43,8 @@ exports.addShelterHelper = function(new_shelter, callback){
     });
 }
 
-/** Compute the closest shelter to the current_location given by lat and lan.
- *
+/**
+ * Compute the closest shelter to the current_location given by lat and lng.
  * @param current_location
  * @param callback
  */

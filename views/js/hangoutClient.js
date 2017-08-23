@@ -1,4 +1,4 @@
-class shelterzClient {
+class hangoutClient {
     makeApiCall(url, verb, callback=null) {
         console.log(url); // debug
         fetch(url, {method: verb}).then(function (response) {
