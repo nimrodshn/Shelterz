@@ -4,6 +4,7 @@ let map, infoWindow, userPosition, addingShelter;
 function initMap() {
     map = new google.maps.Map(document.getElementById('map'), {
     zoom: 15,
+    mapTypeControl: false
   });
 
   // add marker (representing a new shelter) to map simply by clicking on it
@@ -63,7 +64,7 @@ function addMarker(position){
 
 function addShelterFromMapClick() {
   let fb = "false"
-  let url = "/add_shelter/lat/" + infoWindow.getPosition().lat() + "/lng/" + infoWindow.getPosition().lng() + "/fb/" + fb;
-  let client = new shelterzClient();
+  let url = "/add_hangout/lat/" + infoWindow.getPosition().lat() + "/lng/" + infoWindow.getPosition().lng() + "/fb/" + fb;
+  let client = new hangoutClient();
   client.makeApiCall(url,"post");
 }

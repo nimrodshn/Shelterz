@@ -16,6 +16,7 @@ html, body{
   border-radius: 25px;
   background: gray;
   width: auto;
-  height: 20px;
+  height: auto;
   transition: height 2s;
+  margin-top:auto;
 }

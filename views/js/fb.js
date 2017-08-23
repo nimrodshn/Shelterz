@@ -26,9 +26,7 @@ function checkLoginState() {
  * @param response
  */
 function statusChangeCallback(response){
-    console.log(response);
     // TODO: Do some animation here.
-    alert("logging your events...")
     FB.api('/me/events', function(response) {
         for (let event of response.data){
             if (event.place.location) {

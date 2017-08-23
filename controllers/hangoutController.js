@@ -1,29 +1,29 @@
 "use strict";
 
-const shelterHelpers = require('../helpers/shelterzHelpers');
+const hangoutHelpers = require('../helpers/hangoutHelpers.js');
 
-exports.findClosestShelter = (req,res) => {
-  shelterHelpers.computeMinimalDistanceEntry(req.params, function(closest_event) {
-    res.send(closest_event);
+exports.findClosestHangout = (req,res) => {
+  hangoutHelpers.computeMinimalDistanceEntry(req.params, function(closest_hangout) {
+    res.send(closest_hangout);
   });
 }
 
-exports.addShelter = (req,res) => {
-  shelterHelpers.addShelterHelper(req.params, function(new_shelter){
-    res.send(new_shelter);
+exports.addHangout = (req,res) => {
+  hangoutHelpers.addHangoutHelper(req.params, function(new_hangout){
+    res.send(new_hangout);
   });
 }
 
-exports.removeShelter = (req,res) => {
-  shelterHelpers.removeShelterHelper(req.params, function(shelter_to_remove){
-    res.send(shelter_to_remove);
+exports.removeHangout = (req,res) => {
+  hangoutHelpers.removeHangoutHelper(req.params, function(hangout_to_remove){
+    res.send(hangout_to_remove);
   });
 }
 
-exports.findSpecificShelter = (req,res) => {
+exports.findSpecificHangout = (req,res) => {
   // TODO: implements this.
-  findSpecificShelterHelper(req.params, function(shelter) {
-    res.send(shelter);
+  findSpecificHangoutHelper(req.params, function(hangout) {
+    res.send(hangout);
   });
 }
 

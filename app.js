@@ -1,12 +1,11 @@
 "use strict";
 const express = require('express');
-const http = require('https');
 const app = express();
 const path = require('path');
 
-/**  Import Controllers
+/** Controllers:
 */
-const shelterzController = require('./controllers/shelterzController.js')
+const hangoutController = require('./controllers/hangoutController.js')
 
 /** Routes
 */
@@ -30,18 +29,18 @@ app.get('/js/fb.js', function (req, res) {
   res.sendFile(path.join(__dirname, 'views', 'js', 'fb.js'));
 });
 
-app.get('/js/shelterzClient.js', function (req, res) {
-    res.sendFile(path.join(__dirname, 'views', 'js', 'shelterzClient.js'));
+app.get('/js/hangoutClient.js', function (req, res) {
+    res.sendFile(path.join(__dirname, 'views', 'js', 'hangoutClient.js'));
 });
 
-app.get('/find_closest_shelter/lat/:lat/lng/:lng', shelterzController.findClosestShelter);
-app.post('/find_specific_shelter/lat/:lat/lng/:lng', shelterzController.findSpecificShelter);
-app.post('/add_shelter/lat/:lat/lng/:lng/fb/:fb', shelterzController.addShelter);
-app.post('/remove_shelter/lat/:lat/lng/:lng', shelterzController.removeShelter)
 
-var server = app.listen(process.env.PORT || 8080, function () {
-   var host = server.address().address;
-   var port = server.address().port;
-   console.log("Example app listening at http://%s:%s", host, port);
-   // parse default db once upon init.
+app.get('/find_closest_hangout/lat/:lat/lng/:lng', hangoutController.findClosestHangout);
+app.post('/find_specific_hangout/lat/:lat/lng/:lng', hangoutController.findSpecificHangout);
+app.post('/add_hangout/lat/:lat/lng/:lng/fb/:fb', hangoutController.addHangout);
+app.post('/remove_hangout/lat/:lat/lng/:lng', hangoutController.removeHangout)
+
+let server = app.listen(process.env.PORT || 8080, function () {
+   let host = server.address().address;
+   let port = server.address().port;
+   console.log("App listening at http://%s:%s", host, port);
 });
