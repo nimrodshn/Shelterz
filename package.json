@@ -3,16 +3,18 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
+    "test": "./node_modules/mocha/bin/mocha ./tests/",
     "start": "node app.js"
   },
   "dependencies": {
     "body-parser": "~1.16.0",
+    "chai": "^4.1.1",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.0",
     "express": "~4.14.1",
     "fs": "latest",
+    "mocha": "^3.5.0",
     "nodemon": "^1.11.0",
-    "pg": "^7.0.2",
-    "serve-favicon": "~2.3.2"
+    "pg": "^7.2.0"
   }
 }

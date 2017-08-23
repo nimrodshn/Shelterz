@@ -111,6 +111,13 @@ function calculateDistance(p1,p2){
     return 12742 * Math.asin(Math.sqrt(a)) * 1000; // distance in meters.
 }
 
+/**
+ * Finds entry with minimal distance in array with respect to a given metric and current location.
+ * @param arr
+ * @param metric
+ * @param current_location
+ * @returns minimal entry as {{lat: *, lng: *}}
+ */
 function findMinimalEntry(arr, metric, current_location) {
     let min_distance = metric(arr[0],current_location);
     let res = {lat:arr[0].lat, lng: arr[0].lng};
