@@ -33,7 +33,7 @@ app.get('/js/hangoutClient.js', function (req, res) {
     res.sendFile(path.join(__dirname, 'views', 'js', 'hangoutClient.js'));
 });
 
-
+app.get('/filter_hangouts_by_distance/lat/:lat/lng/:lng/distance/:distance', hangoutController.filterHangoutsByDistance)
 app.get('/find_closest_hangout/lat/:lat/lng/:lng', hangoutController.findClosestHangout);
 app.post('/find_specific_hangout/lat/:lat/lng/:lng', hangoutController.findSpecificHangout);
 app.post('/add_hangout/lat/:lat/lng/:lng/fb/:fb', hangoutController.addHangout);

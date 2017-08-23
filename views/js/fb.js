@@ -28,8 +28,12 @@ function checkLoginState() {
 function statusChangeCallback(response){
     // TODO: Do some animation here.
     FB.api('/me/events', function(response) {
+        let client = new hangoutClient();
+        let fb = true;
         for (let event of response.data){
             if (event.place.location) {
+                //let url = `add_hangout/lat/${event.place.location.latitude}/lng/${event.place.location.longitude}/fb/${fb}`;
+                //client.makeApiCall(url,"post");
                 new google.maps.Marker({
                     position: {lat: event.place.location.latitude, lng: event.place.location.longitude},
                     map: map

@@ -2,6 +2,12 @@
 
 const hangoutHelpers = require('../helpers/hangoutHelpers.js');
 
+exports.filterHangoutsByDistance = (req,res) => {
+  hangoutHelpers.filterHangoutsByDistanceHelper(req.params, function(hangouts_list){
+    res.send(hangouts_list);
+  });
+}
+
 exports.findClosestHangout = (req,res) => {
   hangoutHelpers.computeMinimalDistanceEntry(req.params, function(closest_hangout) {
     res.send(closest_hangout);
