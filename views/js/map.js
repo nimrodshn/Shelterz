@@ -1,16 +1,10 @@
 "use strict";
 
-let map, infoWindow, userPosition, addingShelter;
+let map, infoWindow, userPosition;
 function initMap() {
     map = new google.maps.Map(document.getElementById('map'), {
     zoom: 15,
     mapTypeControl: false
-  });
-
-  // add marker (representing a new shelter) to map simply by clicking on it
-  // TODO: make this behavior compatible with all markers on map.
-  google.maps.event.addListener(map, "click", function(event){
-    addMarker(event.latLng)
   });
 
   if (navigator.geolocation) {
@@ -39,32 +33,4 @@ function handleLocationError(browserHasGeolocation, infoWindow, pos) {
                         'Error: The Geolocation service failed.' :
                         'Error: Your browser doesn\'t support geolocation.');
   infoWindow.open(map);
-}
-
-function addMarker(position){
-  if (!addingShelter) {
-    let marker = new google.maps.Marker({
-        position: position,
-        map: map
-    });
-    infoWindow = new google.maps.InfoWindow({
-      content: '<p> would you like to add a shelter here? </p>' +
-               '<button onclick=addShelterFromMapClick()>Let\'s hangout!</button>'
-    });
-    infoWindow.open(map, marker);
-    addingShelter = true;
-    // Every marker added here can be removed from map by a "right click" event.
-    // TODO: make this behavior compatible with every marker on the map (maybe except my own position).
-    google.maps.event.addListener(marker, "rightclick", function(event){
-        addingShelter = false;
-        marker.setMap(null);
-    });
-  }
-}
-
-function addShelterFromMapClick() {
-  let fb = "false"
-  let url = "/add_hangout/lat/" + infoWindow.getPosition().lat() + "/lng/" + infoWindow.getPosition().lng() + "/fb/" + fb;
-  let client = new hangoutClient();
-  client.makeApiCall(url,"post");
 }

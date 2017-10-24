@@ -3,14 +3,12 @@ let loginOpen = false;
 
 class Menu {
   constructor(elem){
-    this._elem = elem;
     elem.addEventListener("click",this.onClick.bind(this));
     this._client = new hangoutClient();
   }
 
   addHangout() {
-    let fb = "false";
-    let url = "/add_hangout/lat/" + userPosition.lat + "/lng/" + userPosition.lng + "/fb/" + fb;
+    let url = "api/add_hangout/lat/" + userPosition.lat + "/lng/" + userPosition.lng + "/source/hangouts";
     this._client.makeApiCall(url,"post");
   }
 
@@ -20,9 +18,9 @@ class Menu {
 
   closestHangout() {
     if (userPosition){
-      let url = 'find_closest_hangout/lat/' + userPosition.lat + '/lng/' + userPosition.lng // userPosition is defined in map.js as a global variable.
+      let url = 'api/find_closest_hangout/lat/' + userPosition.lat + '/lng/' + userPosition.lng // userPosition is defined in map.js as a global variable.
       this._client.makeApiCall(url, "get", closest_shelter => {
-        let marker = new google.maps.Marker({
+        new google.maps.Marker({
           position: {lat: parseFloat(closest_shelter.lat), lng: parseFloat(closest_shelter.lng)},
           map: map
         });
