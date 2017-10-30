@@ -1,1 +1,1 @@
-Web App for public shelterz based on Google Maps API
+Web App for public shelters based on Google Maps API
