@@ -1,1 +1,1 @@
-Web App for community events based on Google Maps API
+Web App for public shelterz based on Google Maps API
